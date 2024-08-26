@@ -1,58 +1,47 @@
 <h1 align="center">Hi 👋, I'm Nurbek Ataboyev</h1>
-<h3 align="center">Passionate iOS Developer from Uzbekistan</h3>
 
-<p align="center">
-    <a href="https://twitter.com/nurbekios" target="_blank"><img src="https://img.shields.io/twitter/follow/nurbekios?logo=twitter&style=for-the-badge" alt="nurbekios" /></a>
-</p>
+## Objective
 
-- 🔭 I’m currently working on [my indie projects](https://apps.apple.com/developer/nurbek-ataboyev/id1754755213)
+Dedicated and innovative app developer with 1+ years of overall experience in the programming field, specializing in iOS development with Swift and UIKit. Successfully launched my first app on the App Store, demonstrating a complete development cycle from concept to execution. Seeking to join a dynamic team where I can leverage my skills and continue to grow as a mobile app developer.
 
-- 📫 How to reach me: **nurbek.main@gmail.com**
+## Skills
 
-- 📄 Check out my [Resume](https://drive.google.com/file/d/1rSLmPNO27_adn9yDXcxROm6bRuGl83fg/view?usp=sharing)
+- **Programming Languages**: Swift (UIKit, Combine, SnapKit, Async/Await, OOP, SOLID)
+- **Architectural Patterns**: Clean Swift, MVP, MVVM, MVVM + C, VIPER
+- **Multithreading**: Grand Central Dispatch (GCD), Operation Queue
+- **Networking**: URLSession, Alamofire, REST API HTTP
+- **Persistence**: UserDefaults, Keychain, CoreData, Firebase (Authentication, Firestore, Storage, Remote Config, Messaging)
+- **Dependency Management**: Swift Package Manager, CocoaPods
+- **Asynchronous Programming**: Combine, async/await
+- **Others**: Git, Social Sign-Ins (Facebook, Google, Apple), Universal Links, In-App Purchases
+- **Soft Skills**: Communication, Problem-solving, Self-learning, Teamwork, Adaptability, Time management, Critical thinking
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-    <a href="https://twitter.com/nurbekios" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="nurbekios" height="30" width="40" /></a>
-    <a href="https://linkedin.com/in/nurbek-ataboyev" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nurbek-ataboyev" height="30" width="40" /></a>
-</p>
+## Experience
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
-    <a href="https://developer.apple.com/swift/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="swift" width="40" height="40"/>
-    </a>
-    <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
-        <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/>
-    </a>
-    <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
-        <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/>
-    </a>
-    <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-        <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
-    </a>
-    <a href="https://www.postgresql.org" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/>
-    </a>
-    <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer">
-        <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/>
-    </a>
-    <a href="https://heroku.com" target="_blank" rel="noreferrer">
-        <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/>
-    </a>
-    <a href="https://www.python.org" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-    </a>
-    <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
-    </a>
-    <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
-    </a>
-</p>
+**iOS Developer & Project Lead**  
+*Grocerify - Self-Employed*  
+_February 2024 - Present_
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nurbekataboyev&show_icons=true&locale=en&layout=compact" alt="nurbekataboyev" /></p>
+- Conceptualized (UI/UX), planned, and developed Grocerify, a grocery list management app now available on the [App Store](https://apps.apple.com/app/grocerify/id6505025905).
+- Implemented key features including product organization, customizable shopping lists, real-time list sharing and collaboration, personalized reminders, and dark mode for enhanced user experience.
+- Adopted Clean Swift Architecture to maintain a scalable and maintainable codebase.
+- Integrated Firebase for Authentication, Firestore, Storage, Remote Configuration, and Push Notifications, ensuring a robust backend infrastructure.
+- Enabled social sign-ins with Facebook, Google, and Apple to provide users with multiple login options.
+- Leveraged Combine & Async/Await for efficient asynchronous programming.
+- Employed Universal Links for deep linking to enhance user experience.
+- Integrated RevenueCat for managing in-app purchases and ensuring a smooth purchase experience.
+- Ensured real-time synchronization of lists across all devices and members.
+- Developed a user-friendly dark mode to improve night-time shopping experience.
+- Handled all aspects of the app development lifecycle from idea inception to release on the App Store.
+- Continuously improving the app based on user feedback and adding new features for future updates.
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nurbekataboyev&show_icons=true&locale=en" alt="nurbekataboyev" /></p>
+## Education
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nurbekataboyev&" alt="nurbekataboyev" /></p>
+**Bachelor of Management**  
+_National University of Art and Design_  (_2022 - 2027_)
+
+## Languages
+
+- **English**: Proficient (B2)
+- **Russian**: Conversational
+- **Uzbek**: Native
