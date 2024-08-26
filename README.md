@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Nurbek Ataboyev</h1>
+<h1 align="center">Nurbek Ataboyev</h1>
 
 ## Objective
 
