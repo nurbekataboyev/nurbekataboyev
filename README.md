@@ -11,8 +11,7 @@ Passionate iOS developer with a track record of bringing innovative ideas to lif
 
 ### 💻 Tech Stack
 
-Swift | UIKit | Combine | Firebase | CoreData | Async/Await
-REST API | URLSession | Alamofire | GitHub
+Swift | UIKit | Combine | Firebase | CoreData | Async/Await | REST API | URLSession | Alamofire | GitHub
 
 ### 🌟 Key Skills
 
