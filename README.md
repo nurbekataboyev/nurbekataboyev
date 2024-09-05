@@ -41,6 +41,8 @@ _July 2024 - Present_
 📈 Role & Contribution:
 As an iOS developer and Product Owner, I spearheaded the entire development lifecycle of "Mood Tracker - MoodMap", from conceptualization to App Store deployment. Working in close collaboration with our Golang Backend Developer (backend/server was entirely done by him), we formed a cohesive team that shaped every aspect of the app, including ideation, planning, design, and implementation.
 
+#
+
 **iOS Developer & Product Owner**  
 *Grocerify - Self-Employed*  
 _February 2024 - Present_
