@@ -2,7 +2,7 @@
 
 ## Objective
 
-Dedicated and innovative app developer with 1+ years of overall experience in the programming field, specializing in iOS development with Swift and UIKit. Successfully launched my first app on the App Store, demonstrating a complete development cycle from concept to execution. Seeking to join a dynamic team where I can leverage my skills and continue to grow as a mobile app developer.
+Dedicated and innovative app developer with over a year of experience in the programming field, specializing in iOS development with Swift and UIKit. Successfully launched my own apps on the App Store, handling full development cycles from concept to release. Looking to join a dynamic team where I can apply my skills, contribute to exciting projects, and continue to grow as a mobile app developer.
 
 ## Skills
 
@@ -18,22 +18,53 @@ Dedicated and innovative app developer with 1+ years of overall experience in th
 
 ## Experience
 
-**iOS Developer & Project Lead**  
+**iOS Developer & Product Owner**  
+*MoodMap - Self-Employed*  
+_July 2024 - Present_
+
+🌟 Key Features:
+- Effortless Mood Tracking: Log emotions, activities, and personal notes daily.
+- Trend Visualization (Coming Soon): Gain insights into emotional patterns through intuitive charts and graphs.
+- Customizable Reminders: Maintain consistent mood tracking with personalized notifications.
+- Privacy-Centric Design: Ensure data security and user confidentiality.
+
+🛠️ Technologies & Tools:
+- Swift & UIKit: Core app development.
+- MVVM+C Architecture: Ensuring scalability and maintainability.
+- Combine & Async/Await: Modern reactive and asynchronous programming.
+- Alamofire: Simplified networking and API interactions.
+- Firebase: Robust authentication system.
+- Social Sign-Ins: Seamless login via Google and Apple.
+- In-App Purchases: Monetization through RevenueCat integration.
+- and more...
+
+📈 Role & Contribution:
+As an iOS developer and Product Owner, I spearheaded the entire development lifecycle of "Mood Tracker - MoodMap", from conceptualization to App Store deployment. Working in close collaboration with our Golang Backend Developer (backend/server was entirely done by him), we formed a cohesive team that shaped every aspect of the app, including ideation, planning, design, and implementation.
+
+**iOS Developer & Product Owner**  
 *Grocerify - Self-Employed*  
 _February 2024 - Present_
 
-- Conceptualized (UI/UX), planned, and developed Grocerify, a grocery list management app now available on the [App Store](https://apps.apple.com/app/grocerify/id6505025905).
-- Implemented key features including product organization, customizable shopping lists, real-time list sharing and collaboration, personalized reminders, and dark mode for enhanced user experience.
-- Adopted Clean Swift Architecture to maintain a scalable and maintainable codebase.
-- Integrated Firebase for Authentication, Firestore, Storage, Remote Configuration, and Push Notifications, ensuring a robust backend infrastructure.
-- Enabled social sign-ins with Facebook, Google, and Apple to provide users with multiple login options.
-- Leveraged Combine & Async/Await for efficient asynchronous programming.
-- Employed Universal Links for deep linking to enhance user experience.
-- Integrated RevenueCat for managing in-app purchases and ensuring a smooth purchase experience.
-- Ensured real-time synchronization of lists across all devices and members.
-- Developed a user-friendly dark mode to improve night-time shopping experience.
-- Handled all aspects of the app development lifecycle from idea inception to release on the App Store.
-- Continuously improving the app based on user feedback and adding new features for future updates.
+🌟 Key Features:
+- Effortless Product Management: Add, categorize, and organize products with ease.
+- Customizable Shopping Lists: Plan personalized lists for any occasion.
+- Collaborative Lists: Share and update shopping lists in real-time with family and friends.
+- Personalized Reminders: Set tailored reminders for important shopping tasks.
+- Dark Mode: Enjoy a sleek interface that's easy on the eyes during nighttime shopping.
+- Cross-Device Sync: Seamlessly sync shopping lists across all devices.
+
+🛠️ Technologies & Tools:
+- Swift & UIKit: For building the core functionality of the app.
+- Clean Architecture: Ensuring the app is scalable and maintainable.
+- Firebase: Integrated for Authentication, Firestore, Storage, Remote Config, and push notifications via Messaging.
+- Social Sign-Ins: Supports Facebook, Google, and Apple for seamless login.
+- SnapKit: Utilized for efficient and flexible UI layouts.
+- Combine & Async/Await: Used for modern and efficient asynchronous programming.
+- Universal Links: For deep linking and enhanced user experience.
+- In-App Purchases (via RevenueCat): To handle monetization through premium features.
+
+📈 Role & Contribution:
+From concept to App Store release, I led every phase of development for "Grocerify". This includes ideation, planning, design, development, and deployment. The current version is the MVP, and I have exciting updates planned, including new features and enhancements that will continue to elevate the app's value to users.
 
 ## Education
 
