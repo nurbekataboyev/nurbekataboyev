@@ -23,6 +23,6 @@ Swift | UIKit | Combine | Firebase | CoreData | Async/Await | REST API | URLSess
 
 ### 📫 Let's Connect
 
-[X](https://x.com/nurbekios) | [LinkedIn](https://www.linkedin.com/in/nurbek-ataboyev/)
+[LinkedIn](https://www.linkedin.com/in/nurbek-ataboyev/) | [X (Twitter)](https://x.com/nurbekios)
 
 Always open to exciting collaborations and discussions about iOS development!
